@@ -1,0 +1,20 @@
+#product-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f8f9fa;
+}
+#plus {
+  color: green;
+}
+#minus {
+  color: yellow;
+}
+#remove {
+  color: red;
+}
+#plus,
+#minus,
+#remove:hover {
+  cursor: pointer;
+}

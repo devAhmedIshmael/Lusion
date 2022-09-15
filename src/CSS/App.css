@@ -1,0 +1,139 @@
+body {
+  background-color: #f8f9fa !important;
+}
+/* navbar */
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
+#cart-parent {
+  position: relative;
+}
+#cart-counter {
+  position: absolute;
+  right: -15px;
+  border-radius: 50%;
+  font-size: xx-small;
+}
+.nav-link {
+  text-decoration: none !important;
+  font-weight: bold !important;
+  color: black !important;
+  font-size: x-large !important;
+}
+/* header */
+#carousel {
+  position: relative !important;
+}
+
+.carousel-control-prev-icon {
+  position: absolute !important;
+  background-image: url("../images/previous.svg") !important;
+}
+.carousel-control-next-icon {
+  background-image: url("../images/next.svg") !important;
+}
+/* sec-1 */
+.sec-1 {
+  text-align: center;
+}
+.sec-1 .details {
+  display: flex;
+  justify-content: space-around;
+}
+.sec-1 h4 {
+  font-weight: bold;
+}
+/* sec-2 */
+#bestselling {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+#bestselling h2 {
+  font-weight: bold;
+}
+#bestselling p,
+.product-title {
+  color: gray;
+}
+.bestselling {
+  display: flex;
+  justify-content: space-between;
+}
+.card-text {
+  display: flex;
+  justify-content: space-between;
+  font-size: larger;
+  font-weight: bold;
+}
+/* sec-3 */
+.sec-3 {
+  position: relative;
+}
+.sec-3 img {
+  width: 100%;
+  height: 400px;
+}
+@media (max-width: 767px) {
+  .sec-3 img {
+    height: 250px;
+  }
+}
+.sec-3 .banner {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  line-height: 0.7;
+  text-align: center;
+}
+.banner-two {
+  position: absolute;
+  top: 20%;
+  right: 0;
+  line-height: 0.7;
+  text-align: center;
+}
+
+.off {
+  display: flex;
+  justify-content: center;
+}
+.large {
+  font-size: 5vw;
+}
+.bold {
+  font-weight: bold;
+  font-size: 6vw;
+}
+.medium {
+  font-size: x-large;
+  font-weight: bold;
+}
+.shopnow {
+  border: 1px solid black !important;
+  font-size: x-large !important;
+  font-weight: bold !important;
+}
+/* sec-4 */
+.sec-4 {
+  font-weight: bold;
+}
+.sec-4 .row {
+  text-align: center;
+}
+.sec-4 .heading1 {
+  font-size: 4vw;
+  color: black;
+}
+.sec-4 p {
+  color: gray;
+  font-size: large;
+}
+.sec-4 .heading2 {
+  font-size: 2vw;
+  color: black;
+}
+.sec-4 img {
+  width: 290px;
+  height: 290px;
+}
