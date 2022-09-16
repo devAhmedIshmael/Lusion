@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Lusion/static/css/main.00ffb566.css",
-    "main.js": "/Lusion/static/js/main.976168b8.js",
+    "main.js": "/Lusion/static/js/main.f35dd237.js",
     "static/media/header_black.png": "/Lusion/static/media/header_black.0e90a30391cfc0a4b421.png",
     "static/media/home-sec-3.png": "/Lusion/static/media/home-sec-3.b334e1c31a6d6b92b090.png",
     "static/media/header_white.png": "/Lusion/static/media/header_white.763bde5c1d186bad8d23.png",
@@ -36,10 +36,10 @@
     "static/media/eye.svg": "/Lusion/static/media/eye.bb5a4e6fd60400167c5055bfb8ae1f3e.svg",
     "static/media/Cart.svg": "/Lusion/static/media/Cart.7f53a0b88413b324720ade213577e5c7.svg",
     "main.00ffb566.css.map": "/Lusion/static/css/main.00ffb566.css.map",
-    "main.976168b8.js.map": "/Lusion/static/js/main.976168b8.js.map"
+    "main.f35dd237.js.map": "/Lusion/static/js/main.f35dd237.js.map"
   },
   "entrypoints": [
     "static/css/main.00ffb566.css",
-    "static/js/main.976168b8.js"
+    "static/js/main.f35dd237.js"
   ]
 }
