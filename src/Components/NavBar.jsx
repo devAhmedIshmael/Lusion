@@ -31,7 +31,7 @@ const NavBar = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav dir="ltr" className="text-center">
-                <NavLink to="/" className="nav-link">
+                <NavLink to="/Lusion" className="nav-link">
                   <h5 className="nav-link">Home</h5>
                 </NavLink>
                 <NavLink to="/shop" className="nav-link">
